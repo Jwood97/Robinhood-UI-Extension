@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+   
+    "name": "r0bin AuTiSts 420 69",
+    "version": "0.1.0",
+    "description": "Brings back old robinhood colors",
+   
+    "content_scripts": [{
+      "css": ["styles.css"],
+      "matches": ["https://robinhood.com/", "https://robinhood.com/*", "https://robinhood.com/*/*"]
+    }]
+   
+  }

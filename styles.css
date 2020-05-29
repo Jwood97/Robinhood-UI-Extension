@@ -1,0 +1,216 @@
+.css-jufth6 {
+    --rh__primary-base: rgba(88, 193, 156)!important;
+    --rh__primary-light-base: rgba(88, 193, 156, 0.3)!important;
+    --rh__primary-lightest-base: rgba(88, 193, 156, 0.1)!important;
+    --rh__primary-textOverlay: #ffffff!important;
+    --rh__primary-light-textOverlay: rgba(88, 193, 156)!important;
+    --rh__primary-lightest-textOverlay: rgba(88,193, 156)!important;
+    --rh-LEGACY__primary-color-hover: rgb(90, 197, 160)!important;
+}
+.css-1ndl8y7 {
+    --rh__semantic-positive-base: rgba(88, 193, 156)!important;
+    --rh__semantic-positive-light: rgba(88, 193, 156, 0.3)!important;
+    --rh__semantic-negative-base: rgba(255,80,0,1)!important;
+    --rh__semantic-negative-light: rgba(255,80,0,0.3)!important;
+    --rh__semantic-success-base: rgba(88, 193, 156)!important;
+    --rh__semantic-success-light: rgba(88, 193, 156, 0.3)!important;
+    --rh__semantic-error-base: rgba(255,80,0,1)!important;
+    --rh__semantic-error-light: rgba(255,80,0,0.3)!important;
+}
+.css-40ktqw {
+    --rh__semantic-positive-base: rgba(88, 193, 156)!important;
+    --rh__semantic-positive-light: rgba(88, 193, 156, 0.3)!important;
+    --rh__semantic-negative-base: rgba(255,80,0,1)!important;
+    --rh__semantic-negative-light: rgba(255,80,0,0.3)!important;
+    --rh__semantic-success-base: rgba(88, 193, 156)!important;
+    --rh__semantic-success-light: rgba(88, 193, 156, 0.3)!important;
+    --rh__semantic-error-base: rgba(255,80,0,1)!important;
+    --rh__semantic-error-light: rgba(255,80,0,0.3)!important;
+}
+.css-1ru39tm {
+    --rh__primary-base: rgba(88, 193, 156)!important;
+    --rh__primary-light-base: rgba(88, 193, 156, 0.3)!important;
+    --rh__primary-lightest-base: rgba(88, 193, 156, 0.1)!important;
+    --rh__primary-textOverlay: #ffffff!important;
+    --rh__primary-light-textOverlay: rgba(88, 193, 156)!important;
+    --rh__primary-lightest-textOverlay: rgba(88,193, 156)!important;
+    --rh-LEGACY__primary-color-hover: rgb(90, 197, 160)!important;
+}
+.css-h4294o-Card {
+    --rh__primary-base: rgba(88, 193, 156)!important;
+    --rh__primary-light-base: rgba(88, 193, 156, 0.4)!important;
+    --rh__primary-lightest-base: rgba(88, 193, 156, 0.2)!important;
+    /* --rh__primary-textOverlay: #1e2124; */
+    --rh__primary-light-textOverlay: rgba(88, 193, 156, 1)!important;
+    --rh__primary-lightest-textOverlay: rgba(88, 193, 156, 1)!important;
+    --rh-LEGACY__primary-color-hover: rgb(82, 184, 148)!important;
+    --rh__semantic-positive-base: rgba(88, 193, 156, 1)!important;
+    --rh__semantic-positive-light: rgba(88, 193, 156, 0.4)!important;
+    --rh__semantic-negative-base: rgba(255,80,0,1);
+    --rh__semantic-negative-light: rgba(255,80,0,0.4);
+    --rh__semantic-success-base: rgba(88, 193, 156, 1)!important;
+    --rh__semantic-success-light: rgba(88, 193, 156, 0.4)!important;
+    --rh__semantic-error-base: rgba(255,80,0,1);
+    --rh__semantic-error-light: rgba(255,80,0,0.4);
+    /* --rh__foundation-fg1: #f0f4f6;
+    --rh__foundation-fg2: #849197;
+    --rh__foundation-fg3: #626c70;
+    --rh__foundation-bg3: #30363a;
+    --rh__foundation-bg2: #30363a;
+    --rh__foundation-bg1: #1e2124;
+    --rh__foundation-hover-bg1: #40494e;
+    --rh__foundation-hover-bg2: #30363a; */
+}
+.css-1kb327r {
+    --rh__primary-base: rgba(255,80,0,1);
+    --rh__primary-light-base: rgba(255,80,0,0.4);
+    --rh__primary-lightest-base: rgba(255,80,0,0.2);
+    --rh__primary-textOverlay: #040d14;
+    --rh__primary-light-textOverlay: rgba(255,80,0,1);
+    --rh__primary-lightest-textOverlay: rgba(255,80,0,1);
+    --rh-LEGACY__primary-color-hover: rgba(255,106,38,1);
+    --rh__semantic-positive-base: rgba(0,200,5,1);
+    --rh__semantic-positive-light: rgba(0,200,5,0.4);
+    --rh__semantic-negative-base: rgba(255,80,0,1);
+    --rh__semantic-negative-light: rgba(255,80,0,0.4);
+    --rh__semantic-success-base: rgba(0,200,5,1);
+    --rh__semantic-success-light: rgba(0,200,5,0.4);
+    --rh__semantic-error-base: rgba(255,80,0,1);
+    --rh__semantic-error-light: rgba(255,80,0,0.4);
+}
+.css-o01nbp {
+    --rh__primary-base: rgba(88, 193, 156)!important;
+    --rh__primary-light-base: rgba(88, 193, 156, 0.4)!important;
+    --rh__primary-lightest-base: rgba(88, 193, 156, 0.2)!important;
+    /* --rh__primary-textOverlay: #1e2124; */
+    --rh__primary-light-textOverlay: rgba(88, 193, 156, 1)!important;
+    --rh__primary-lightest-textOverlay: rgba(88, 193, 156, 1)!important;
+    --rh-LEGACY__primary-color-hover: rgb(82, 184, 148)!important;
+    --rh__semantic-positive-base: rgba(88, 193, 156, 1)!important;
+    --rh__semantic-positive-light: rgba(88, 193, 156, 0.4)!important;
+    --rh__semantic-negative-base: rgba(255,80,0,1);
+    --rh__semantic-negative-light: rgba(255,80,0,0.4);
+    --rh__semantic-success-base: rgba(88, 193, 156, 1)!important;
+    --rh__semantic-success-light: rgba(88, 193, 156, 0.4)!important;
+    --rh__semantic-error-base: rgba(255,80,0,1);
+    --rh__semantic-error-light: rgba(255,80,0,0.4);
+}
+.css-cw5dgi-UnstyledButton:hover {
+    border-color: rgb(85, 187, 151)!important;
+    color: rgb(85, 187, 151)!important;
+}
+.css-e5bjc2:hover {
+    color: rgba(0,0,0)!important;
+    background-color: rgba(88, 193, 156)!important;
+    /* background-color: rgba(88, 193, 156, 0.3)!important; */
+}
+/* for every element with + in data-content, which we inserted */
+.css-1vdcxym[data-content="+"] {
+    color: rgba(88, 193, 156)!important;
+} 
+.css-z4lq0o {
+    color: rgba(88, 193, 156)!important;
+    --rh__text-color: rgba(88, 193, 156)!important;
+    text-decoration: unset;
+}
+.css-at8ddf {
+    color: rgba(88, 193, 156)!important;
+    --rh__text-color: rgba(88, 193, 156)!important;
+    text-decoration: unset;
+}
+/* up arrow in top movers */
+body.theme-open-up ._2W5gCho3Ijf6U_qtTT_A4Y, body .theme-open-up.theme-open-up ._2W5gCho3Ijf6U_qtTT_A4Y {
+    fill: rgba(88, 193, 156)!important;
+}
+._1yOyjPBUZGXSS5BsakrWFL ._2ECq-7v73uU8ZhcCrE8ReI {
+    fill: rgba(88, 193, 156)!important;
+}
+/* .css-1r8rjiy {
+    color: rgba(88, 193, 156)!important;
+} */
+.css-1qsqm1k {
+    color: rgba(88, 193, 156)!important;
+   
+    --rh__text-color: rgba(88, 193, 156)!important;
+    
+}
+.rc-slider-track {
+    background:rgba(88, 193, 156)!important;
+}
+.rc-slider-handle {
+    /* background-color: var(--rh__foundation-bg1); */
+    border-color: rgba(88, 193, 156)!important;
+}
+/* .css-c1lp8c-ButtonContent {
+    --rh__text-color: rgba(88, 193, 156)!important;
+} */
+.xgzdGyr8bFpObMnpLZh5g:not(._3m7QVfJuzD3XqMVaQUQNp9):not(.vIlAYoIjhrjfNqMm-gl-G):not(._2_C4xH2S82uifBLMUiS60a) {
+    /* finish signup button */
+    color: rgba(88, 193, 156)!important;
+}
+.primary-color {
+    color: rgba(88, 193, 156)!important;
+}
+.vamuURsdDHmlS1zO3sS5q ._39Ok0uVHVd8Np2EICvlokq .active {
+    color: rgba(88, 193, 156)!important;
+    /* background-color: rgba(88, 193, 156, 0.3)!important; */
+}
+.css-18z9sce:hover {
+    
+    background-color: rgba(88, 193, 156)!important;
+}
+._3lNb78dysGZTeUxB2deUYm {
+    color: rgba(88, 193, 156)!important;
+}
+._1JT1YYo73YP6gvXBSFHSTl {
+    color: rgba(255,80,0,1)!important;
+}
+.css-600vsu {
+    background-color: rgba(88, 193, 156, 0.3)!important;
+    /* fill: #040d14; */
+    --rh__primary-base: rgba(88, 193, 156)!important;
+    --rh__primary-light-base: rgba(88, 193, 156)!important;
+    --rh__primary-lightest-base: rgba(88, 193, 156)!important;
+    --rh__primary-textOverlay: #ffffff;
+    --rh__primary-light-textOverlay: #ffffff;
+    --rh__primary-lightest-textOverlay: #ffffff;
+
+}
+.css-2vsfn1 {
+    --rh__primary-base: rgba(88, 193, 156)!important;
+    --rh__primary-light-base: rgba(88, 193, 156, 0.4)!important;
+    --rh__primary-lightest-base: rgba(88, 193, 156, 0.2)!important;
+    /* --rh__primary-textOverlay: #1e2124; */
+    --rh__primary-light-textOverlay: rgba(88, 193, 156, 1)!important;
+    --rh__primary-lightest-textOverlay: rgba(88, 193, 156, 1)!important;
+    --rh-LEGACY__primary-color-hover: rgb(82, 184, 148)!important;
+    --rh__semantic-positive-base: rgba(88, 193, 156, 1)!important;
+    --rh__semantic-positive-light: rgba(88, 193, 156, 0.4)!important;
+    --rh__semantic-negative-base: rgba(255,80,0,1);
+    --rh__semantic-negative-light: rgba(255,80,0,0.4);
+    --rh__semantic-success-base: rgba(88, 193, 156, 1)!important;
+    --rh__semantic-success-light: rgba(88, 193, 156, 0.4)!important;
+    --rh__semantic-error-base: rgba(255,80,0,1);
+    --rh__semantic-error-light: rgba(255,80,0,0.4);
+}
+/* .css-59zt8e {
+    --rh__text-color: rgba(88, 193, 156)!important;
+}
+.css-1vdcxym {
+    color: rgba(88, 193, 156)!important;
+    
+} */
+/* .up._9YsRP4ChsxbL9qzZnKv0K{
+    color: rgba(88, 193, 156)!important;
+}
+.down._9YsRP4ChsxbL9qzZnKv0K{
+    color: rgba(255,80,0,1)!important;
+} */
+/* .css-1vdcxym:contains("+") {
+    
+    color: rgba(88, 193, 156)!important;
+}
+.css-1vdcxym:contains("-") {
+   
+    color: rgba(255,80,0,1)!important;
+} */
