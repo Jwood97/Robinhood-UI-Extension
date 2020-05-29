@@ -62,21 +62,22 @@
     --rh__foundation-hover-bg2: #30363a; */
 }
 .css-1kb327r {
-    --rh__primary-base: rgba(255,80,0,1);
-    --rh__primary-light-base: rgba(255,80,0,0.4);
-    --rh__primary-lightest-base: rgba(255,80,0,0.2);
-    --rh__primary-textOverlay: #040d14;
-    --rh__primary-light-textOverlay: rgba(255,80,0,1);
-    --rh__primary-lightest-textOverlay: rgba(255,80,0,1);
-    --rh-LEGACY__primary-color-hover: rgba(255,106,38,1);
-    --rh__semantic-positive-base: rgba(0,200,5,1);
-    --rh__semantic-positive-light: rgba(0,200,5,0.4);
-    --rh__semantic-negative-base: rgba(255,80,0,1);
-    --rh__semantic-negative-light: rgba(255,80,0,0.4);
-    --rh__semantic-success-base: rgba(0,200,5,1);
-    --rh__semantic-success-light: rgba(0,200,5,0.4);
-    --rh__semantic-error-base: rgba(255,80,0,1);
-    --rh__semantic-error-light: rgba(255,80,0,0.4);
+    /* --rh__primary-base: rgba(88, 193, 156)!important;
+    --rh__primary-light-base: rgba(88, 193, 156, 0.4)!important;
+    --rh__primary-lightest-base: rgba(88, 193, 156, 0.2)!important; */
+    /* --rh__primary-textOverlay: #1e2124; */
+    /* --rh__primary-light-textOverlay: rgba(88, 193, 156, 1)!important;
+    --rh__primary-lightest-textOverlay: rgba(88, 193, 156, 1)!important; */
+    --rh-LEGACY__primary-color-hover: rgb(82, 184, 148)!important;
+    --rh__semantic-positive-base: rgba(88, 193, 156, 1)!important;
+    --rh__semantic-positive-light: rgba(88, 193, 156, 0.4)!important;
+    
+}
+.css-1kb327r {
+    
+    --rh__semantic-positive-base: rgba(88, 193, 156, 1)!important;
+    --rh__semantic-positive-light: rgba(88, 193, 156, 0.4)!important;
+    
 }
 .css-o01nbp {
     --rh__primary-base: rgba(88, 193, 156)!important;
@@ -144,10 +145,10 @@ body.theme-open-up ._2W5gCho3Ijf6U_qtTT_A4Y, body .theme-open-up.theme-open-up .
 /* .css-c1lp8c-ButtonContent {
     --rh__text-color: rgba(88, 193, 156)!important;
 } */
-.xgzdGyr8bFpObMnpLZh5g:not(._3m7QVfJuzD3XqMVaQUQNp9):not(.vIlAYoIjhrjfNqMm-gl-G):not(._2_C4xH2S82uifBLMUiS60a) {
-    /* finish signup button */
+/* .xgzdGyr8bFpObMnpLZh5g:not(._3m7QVfJuzD3XqMVaQUQNp9):not(.vIlAYoIjhrjfNqMm-gl-G):not(._2_C4xH2S82uifBLMUiS60a) {
+    
     color: rgba(88, 193, 156)!important;
-}
+} */
 .primary-color {
     color: rgba(88, 193, 156)!important;
 }
